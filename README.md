@@ -1,1 +1,1 @@
-# Bat-Scooter-Sales-Analysis
+Bat Scooter Sales Analysis using SQL
